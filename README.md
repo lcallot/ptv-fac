@@ -5,8 +5,10 @@
 [Link to the paper](http://lcallot.github.io/papers/ptv-fac/)
 
 ---
-
 Date 01/06/2015
+
+Maintainer: Johannes Tang Kristensen (jtang@creates.au.dk)
+
 
 This repository contains the material necessary to replicate the empirical __application__ in: 'Regularized Estimation of Structural Instability in Factor Models: The US Macroeconomy and the Great Moderation'. 
 
